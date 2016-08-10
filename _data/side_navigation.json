@@ -1,0 +1,23 @@
+{
+    "navigation_items": [{
+        "title": {
+            "en-us": "Overview"
+        },
+        "children": [{
+            "title": {
+                "en-us": "Sample Page"
+            },
+            "url": {
+                "en-us": "pages/en-us/sample_page"
+            }
+        },
+        {
+            "title": {
+                "en-us": "Blog"
+            },
+            "url": {
+                "en-us": "pages/en-us/blog/index"
+            }
+        }]
+    }]
+}

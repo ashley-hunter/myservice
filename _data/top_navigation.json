@@ -1,0 +1,39 @@
+{
+    "navigation_items": [{
+        "title": {
+            "en-us": "Page One"
+        },
+        "url": {
+            "en-us": ""
+        },
+        "icon": "",
+        "primary": false
+    }, {
+        "title": {
+            "en-us": "Page Two"
+        },
+        "url": {
+            "en-us": ""
+        },
+        "icon": "",
+        "primary": false
+    }, {
+        "title": {
+            "en-us": "Page Three"
+        },
+        "url": {
+            "en-us": ""
+        },
+        "icon": "",
+        "primary": false
+    }, {
+        "title": {
+            "en-us": "Overview"
+        },
+        "url": {
+            "en-us": "pages/en-us/sample_page"
+        },
+        "icon": "",
+        "primary": true
+    }]
+}
